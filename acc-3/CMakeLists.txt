@@ -4,6 +4,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_STANDARD 17 )
 
 include_directories(../xarlibs)
-add_executable(ACC
+add_executable(ACXX
     main.cpp
 )
